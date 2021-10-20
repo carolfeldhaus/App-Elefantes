@@ -10,16 +10,18 @@ import UIKit
 class DetailViewController: UIViewController {
     
     var elefanteTocado: Elefante = Elefante()
-    var name: String = ""
     
-    var arrayDeElefanteTocadoMais2: [Elefante] = []
     // UIImageView
+    // name
+    // specie
+    // sex
+    // note
+    // botao para visualizar o link da wikipedia
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
         print("elefante: \(elefanteTocado.name)")
-        print("Quantidade: \(arrayDeElefanteTocadoMais2.count)")
     }
     
 }

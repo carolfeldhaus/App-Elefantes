@@ -8,6 +8,6 @@
 import Foundation
 
 ///HTTP methods supported: GET
-enum HTTPMethod {
+enum HTTPMethods {
     case GET
 }

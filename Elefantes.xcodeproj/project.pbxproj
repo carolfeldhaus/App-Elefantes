@@ -15,6 +15,8 @@
 		82882EA8271DBE1D00BA5CCB /* EndPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82882EA7271DBE1D00BA5CCB /* EndPoints.swift */; };
 		82882EAA271DC25000BA5CCB /* HTTPMethod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82882EA9271DC25000BA5CCB /* HTTPMethod.swift */; };
 		82882EAC271E03CC00BA5CCB /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82882EAB271E03CC00BA5CCB /* DetailViewController.swift */; };
+		82CE953F27203B3A00773FFB /* Species.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CE953E27203B3A00773FFB /* Species.swift */; };
+		82CEF95D271EF1BA004E0AA9 /* Sex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CEF95C271EF1BA004E0AA9 /* Sex.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		82882EA7271DBE1D00BA5CCB /* EndPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndPoints.swift; sourceTree = "<group>"; };
 		82882EA9271DC25000BA5CCB /* HTTPMethod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPMethod.swift; sourceTree = "<group>"; };
 		82882EAB271E03CC00BA5CCB /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		82CE953E27203B3A00773FFB /* Species.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Species.swift; sourceTree = "<group>"; };
+		82CEF95C271EF1BA004E0AA9 /* Sex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sex.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +80,8 @@
 				82882EA9271DC25000BA5CCB /* HTTPMethod.swift */,
 				82882EA5271DBD0A00BA5CCB /* API.swift */,
 				82882EA7271DBE1D00BA5CCB /* EndPoints.swift */,
+				82CEF95C271EF1BA004E0AA9 /* Sex.swift */,
+				82CE953E27203B3A00773FFB /* Species.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -162,8 +168,10 @@
 				82882EA8271DBE1D00BA5CCB /* EndPoints.swift in Sources */,
 				82882EA2271DAF4E00BA5CCB /* Elefante.swift in Sources */,
 				82882EA6271DBD0A00BA5CCB /* API.swift in Sources */,
+				82CEF95D271EF1BA004E0AA9 /* Sex.swift in Sources */,
 				82882E8E271DA40B00BA5CCB /* AppDelegate.swift in Sources */,
 				82882EAA271DC25000BA5CCB /* HTTPMethod.swift in Sources */,
+				82CE953F27203B3A00773FFB /* Species.swift in Sources */,
 				82882EAC271E03CC00BA5CCB /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
